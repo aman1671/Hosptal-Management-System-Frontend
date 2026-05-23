@@ -1,0 +1,26 @@
+<div class="container">
+    <h2>Update Medicine</h2>
+    
+      
+      <div class="form-group">
+        <label>ID</label>
+        <input type="text" id="id" class="form-control" name="id"[(ngModel)]="medicine.id" required>
+      </div>
+
+      <div class="form-group">
+        <label>Drugname</label>
+        <input type="text" id="drugname" class="form-control" name="drugname"[(ngModel)]="medicine.drugname" required>
+      </div>
+
+      
+      
+      <div class="form-group">
+        <label>stock</label>
+        <input type="text" id="stock" class="form-control" name="stock"[(ngModel)]="medicine.stock" required>
+      </div>
+
+    
+  
+      <button type="submit" class="btn btn-primary"(click)="onSubmit()">Update Medicine</button>
+</div>
+  

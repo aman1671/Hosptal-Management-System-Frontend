@@ -1,0 +1,12 @@
+/* src/app/home/home.component.css */
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
