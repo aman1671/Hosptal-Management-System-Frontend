@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HMS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Hosptal-Management-System-Frontend
+Angular frontend for Hospital Management System — includes patient, doctor, appointment, billing, and dashboard modules.
+>>>>>>> 177bb531e0dc17c354aaa326c3d855da8053d8aa
